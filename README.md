@@ -1,4 +1,4 @@
-A long only algo written in python using the QuantConnect platform to invest in "cheap quality" equities. Creates a portfolio of 10 stocks with the highest earnings yield, that pass the screening metrics.
+#A long only algo written in python using the QuantConnect platform to invest in "cheap quality" equities. Creates a portfolio of 10 stocks with the highest earnings yield, that pass the screening metrics.
 
 Rebalances: Yearly, in Jan.
 
@@ -10,7 +10,7 @@ Quality Metric(s): D/E < 50%, TTM ROIC > 10%
 
 Other Metric(s): Exclude Financial Services, REITs, ADRs, non-primary class shares, WTI, Top 1000 shares in dollar volume.
 
-Performance Snapshot:
+#Performance Snapshot:
 
 Sharpe Ratio: 0.635
 
